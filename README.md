@@ -14,7 +14,7 @@ Car Rentals Anytime this is an application for car rental, in which you can choo
 * Lombok
 * MapStruct
 * Liquibase
-* MySql
+* Postgres
 * Hibernate
 * JUnit5
 * Testcontainers
