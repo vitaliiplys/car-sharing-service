@@ -1,4 +1,4 @@
-package com.example.carsharingservice.dto;
+package com.example.carsharingservice.dto.user;
 
 public record UserResponseDto(
         Long id,

@@ -1,7 +1,7 @@
 package com.example.carsharingservice.security;
 
 import com.example.carsharingservice.exception.EntityNotFoundException;
-import com.example.carsharingservice.repository.UserRepository;
+import com.example.carsharingservice.repository.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
