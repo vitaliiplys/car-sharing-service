@@ -1,4 +1,4 @@
-package com.example.carsharingservice.repository;
+package com.example.carsharingservice.repository.role;
 
 import com.example.carsharingservice.model.Role;
 import java.util.Optional;

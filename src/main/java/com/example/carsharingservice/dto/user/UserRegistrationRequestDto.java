@@ -1,4 +1,4 @@
-package com.example.carsharingservice.dto;
+package com.example.carsharingservice.dto.user;
 
 import com.example.carsharingservice.validation.FieldMatch;
 import jakarta.validation.constraints.NotBlank;

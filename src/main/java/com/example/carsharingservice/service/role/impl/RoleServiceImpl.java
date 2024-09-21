@@ -1,8 +1,9 @@
-package com.example.carsharingservice.service;
+package com.example.carsharingservice.service.role.impl;
 
 import com.example.carsharingservice.exception.EntityNotFoundException;
 import com.example.carsharingservice.model.Role;
-import com.example.carsharingservice.repository.RoleRepository;
+import com.example.carsharingservice.repository.role.RoleRepository;
+import com.example.carsharingservice.service.role.RoleService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.example.carsharingservice.service;
+package com.example.carsharingservice.service.role;
 
 import com.example.carsharingservice.model.Role;
 
