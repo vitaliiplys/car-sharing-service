@@ -9,3 +9,7 @@ databaseChangeLog:
       file: db/changelog/changes/04-insert-roles-table.yaml
 - include:
       file: db/changelog/changes/05-insert-user-manager.yaml
+- include:
+      file: db/changelog/changes/06-create-cars-table.yaml
+- include:
+      file: db/changelog/changes/07-create-rentals-table.yaml
